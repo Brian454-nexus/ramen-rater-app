@@ -1,3 +1,4 @@
+/* General body styling */
 body {
     font-family: Arial, sans-serif;
     text-align: center;
@@ -5,6 +6,7 @@ body {
     padding: 20px;
 }
 
+/* Header styling */
 header {
     background-color: #000;
     color: white;
@@ -12,6 +14,7 @@ header {
     margin-bottom: 20px;
 }
 
+/* Ramen menu container styling */
 #ramen-menu {
     display: flex;
     justify-content: center;
@@ -19,6 +22,7 @@ header {
     margin-bottom: 20px;
 }
 
+/* Ramen menu images styling */
 #ramen-menu img {
     width: 150px;
     height: 100px;
@@ -27,24 +31,29 @@ header {
     border: 2px solid #000;
 }
 
+/* Ramen detail container styling */
 #ramen-detail {
     margin-bottom: 20px;
 }
 
+/* Ramen detail image styling */
 #ramen-detail img {
     width: 300px;
     height: 200px;
     object-fit: cover;
 }
 
+/* Detail text styling */
 .detail-text {
     margin: 10px 0;
 }
 
+/* Edit section styling */
 .edit-section {
     margin-top: 10px;
 }
 
+/* Edit section button styling */
 .edit-section button {
     padding: 5px 10px;
     margin: 5px;
@@ -54,6 +63,7 @@ header {
     cursor: pointer;
 }
 
+/* General button styling */
 button {
     padding: 5px 10px;
     background-color: #000;
@@ -62,6 +72,7 @@ button {
     cursor: pointer;
 }
 
+/* New ramen form styling */
 #new-ramen-form {
     display: block;
     background-color: #000;
@@ -74,6 +85,7 @@ button {
     border-radius: 5px;
 }
 
+/* Form header styling */
 .form-header {
     background-color: #000;
     color: white;
@@ -86,12 +98,14 @@ button {
     border-radius: 5px 5px 0 0;
 }
 
+/* Form label styling */
 #new-ramen-form label {
     display: block;
     margin: 10px 0 5px 10px;
     font-weight: bold;
 }
 
+/* Form input styling */
 #new-ramen-form input {
     display: block;
     width: 90%;
@@ -102,6 +116,7 @@ button {
     border-radius: 4px;
 }
 
+/* Form button styling */
 #new-ramen-form button {
     display: block;
     width: 90%;
@@ -114,10 +129,12 @@ button {
     border-radius: 4px;
 }
 
+/* Form button hover effect */
 #new-ramen-form button:hover {
     background-color: #555;
 }
 
+/* Add new ramen container styling */
 #add-new-ramen {
     position: relative;
     display: block;
