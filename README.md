@@ -1,5 +1,5 @@
 # Project Title
-Ramen Rater
+Ramen Rater App
 
 ## Simple Overview of Use/Purpose
 The Ramen Rater is a web application that allows users to browse, rate, and manage their favorite ramen dishes. Users can view a list of ramens, see detailed information about each ramen, add new ramens via a form, and delete ramens they no longer want to keep track of.
